@@ -4,8 +4,8 @@ This repository contains solutions to two SQL questions that I solved while prac
 
 ## Questions Solved
 
-1. Question 1 - [View Question](https://www.sql-practice.com/question1-link)
-2. Question 2 - [View Question](https://www.sql-practice.com/question2-link)
+1. Question 1 - [View Question](https://github.com/ShivamMahto2105/SQL-Practice/blob/main/1%20Ques.sql)
+2. Question 2 - [View Question](https://github.com/ShivamMahto2105/SQL-Practice/blob/main/2%20Ques.sql)
 
 ## Practice Platform
 
