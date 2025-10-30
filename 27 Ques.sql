@@ -7,3 +7,4 @@ FROM patients
 where allergies IS NOT NULL
 group by allergies
 order by COUNT(*) DESC
+
