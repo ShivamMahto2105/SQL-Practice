@@ -34,6 +34,11 @@ This repository contains solutions to two SQL questions that I solved while prac
 28. Question  - [View Question](https://github.com/ShivamMahto2105/SQL-Practice/blob/main/28%20Ques.sql)
 29. Question  - [View Question](https://github.com/ShivamMahto2105/SQL-Practice/blob/main/29%20Ques.sql)
 30. Question  - [View Question](https://github.com/ShivamMahto2105/SQL-Practice/blob/main/30%20Ques.sql)
+31. Question  - [View Question](https://github.com/ShivamMahto2105/SQL-Practice/blob/main/31%20Ques.sql)
+32. Question  - [View Question](https://github.com/ShivamMahto2105/SQL-Practice/blob/main/32%20Ques.sql)
+33. Question  - [View Question](https://github.com/ShivamMahto2105/SQL-Practice/blob/main/33%20Ques.sql)
+34. Question  - [View Question](https://github.com/ShivamMahto2105/SQL-Practice/blob/main/34%20Ques.sql)
+35. Question  - [View Question](https://github.com/ShivamMahto2105/SQL-Practice/blob/main/35%20Ques.sql)
 
 ## Practice Platform
 
